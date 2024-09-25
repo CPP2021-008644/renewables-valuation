@@ -1,0 +1,13 @@
+key,value
+start_year,2019.0
+lifetime_years,21.0
+startup_year,2019.0
+capacity_MW,100.0
+net_capacity_factor,0.3
+power_price,65.0
+capex_total,50000000.0
+opex_fixed,1000000.0
+variable_opex_per_mwh,3.0
+discount_rate,0.0613
+inflation_rate,0.02
+income_tax,0.25
